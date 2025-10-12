@@ -1,0 +1,6 @@
+@Midterm_EquipmentRental_Gurnoor_Parth_HostAddress = http://localhost:5299
+
+GET {{Midterm_EquipmentRental_Gurnoor_Parth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
