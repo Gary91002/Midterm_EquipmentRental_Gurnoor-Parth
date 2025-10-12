@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|c:\\collegeclasses\\semester 5\\enterpriseapplicationsdev\\midterm\\midterm_equipmentrental_gurnoor\u0026parth\\midterm_equipmentrental_gurnoor\u0026parth\\repositories\\equipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|solutionrelative:midterm_equipmentrental_gurnoor\u0026parth\\repositories\\equipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|c:\\collegeclasses\\semester 5\\enterpriseapplicationsdev\\midterm\\midterm_equipmentrental_gurnoor\u0026parth\\midterm_equipmentrental_gurnoor\u0026parth\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|solutionrelative:midterm_equipmentrental_gurnoor\u0026parth\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|c:\\collegeclasses\\semester 5\\enterpriseapplicationsdev\\midterm\\midterm_equipmentrental_gurnoor\u0026parth\\midterm_equipmentrental_gurnoor\u0026parth\\repositories\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|solutionrelative:midterm_equipmentrental_gurnoor\u0026parth\\repositories\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|c:\\collegeclasses\\semester 5\\enterpriseapplicationsdev\\midterm\\midterm_equipmentrental_gurnoor\u0026parth\\midterm_equipmentrental_gurnoor\u0026parth\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|solutionrelative:midterm_equipmentrental_gurnoor\u0026parth\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|c:\\collegeclasses\\semester 5\\enterpriseapplicationsdev\\midterm\\midterm_equipmentrental_gurnoor\u0026parth\\midterm_equipmentrental_gurnoor\u0026parth\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|solutionrelative:midterm_equipmentrental_gurnoor\u0026parth\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|c:\\collegeclasses\\semester 5\\enterpriseapplicationsdev\\midterm\\midterm_equipmentrental_gurnoor\u0026parth\\midterm_equipmentrental_gurnoor\u0026parth\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|solutionrelative:midterm_equipmentrental_gurnoor\u0026parth\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|c:\\collegeclasses\\semester 5\\enterpriseapplicationsdev\\midterm\\midterm_equipmentrental_gurnoor\u0026parth\\midterm_equipmentrental_gurnoor\u0026parth\\controllers\\rentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|solutionrelative:midterm_equipmentrental_gurnoor\u0026parth\\controllers\\rentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|c:\\collegeclasses\\semester 5\\enterpriseapplicationsdev\\midterm\\midterm_equipmentrental_gurnoor\u0026parth\\midterm_equipmentrental_gurnoor\u0026parth\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|solutionrelative:midterm_equipmentrental_gurnoor\u0026parth\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|c:\\collegeclasses\\semester 5\\enterpriseapplicationsdev\\midterm\\midterm_equipmentrental_gurnoor\u0026parth\\midterm_equipmentrental_gurnoor\u0026parth\\controllers\\equipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|solutionrelative:midterm_equipmentrental_gurnoor\u0026parth\\controllers\\equipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|c:\\collegeclasses\\semester 5\\enterpriseapplicationsdev\\midterm\\midterm_equipmentrental_gurnoor\u0026parth\\midterm_equipmentrental_gurnoor\u0026parth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|solutionrelative:midterm_equipmentrental_gurnoor\u0026parth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|c:\\collegeclasses\\semester 5\\enterpriseapplicationsdev\\midterm\\midterm_equipmentrental_gurnoor\u0026parth\\midterm_equipmentrental_gurnoor\u0026parth\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|solutionrelative:midterm_equipmentrental_gurnoor\u0026parth\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|c:\\collegeclasses\\semester 5\\enterpriseapplicationsdev\\midterm\\midterm_equipmentrental_gurnoor\u0026parth\\midterm_equipmentrental_gurnoor\u0026parth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4541025-D975-4FC0-AD87-6E860568AC32}|Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth.csproj|solutionrelative:midterm_equipmentrental_gurnoor\u0026parth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EquipmentRepository.cs",
+              "DocumentMoniker": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Repositories\\EquipmentRepository.cs",
+              "RelativeDocumentMoniker": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Repositories\\EquipmentRepository.cs",
+              "ToolTip": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Repositories\\EquipmentRepository.cs",
+              "RelativeToolTip": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Repositories\\EquipmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:48:20.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:47:53.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Repositories\\Interfaces.cs",
+              "RelativeDocumentMoniker": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Repositories\\Interfaces.cs",
+              "ToolTip": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Repositories\\Interfaces.cs",
+              "RelativeToolTip": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Repositories\\Interfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:47:45.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:46:47.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Models\\Equipment.cs",
+              "RelativeDocumentMoniker": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Models\\Equipment.cs",
+              "ToolTip": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Models\\Equipment.cs",
+              "RelativeToolTip": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Models\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:46:12.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Models\\Rental.cs",
+              "RelativeDocumentMoniker": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Models\\Rental.cs",
+              "ToolTip": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Models\\Rental.cs",
+              "RelativeToolTip": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Models\\Rental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:45:26.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RentalController.cs",
+              "DocumentMoniker": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Controllers\\RentalController.cs",
+              "RelativeDocumentMoniker": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Controllers\\RentalController.cs",
+              "ToolTip": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Controllers\\RentalController.cs",
+              "RelativeToolTip": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Controllers\\RentalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:45:04.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:44:43.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EquipmentController.cs",
+              "DocumentMoniker": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Controllers\\EquipmentController.cs",
+              "RelativeDocumentMoniker": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Controllers\\EquipmentController.cs",
+              "ToolTip": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Controllers\\EquipmentController.cs",
+              "RelativeToolTip": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Controllers\\EquipmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:44:21.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:43:57.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Models\\Customer.cs",
+              "ToolTip": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Models\\Customer.cs",
+              "RelativeToolTip": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T17:56:46.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Program.cs",
+              "RelativeDocumentMoniker": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Program.cs",
+              "ToolTip": "C:\\CollegeClasses\\Semester 5\\EnterpriseApplicationsDev\\Midterm\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Midterm_EquipmentRental_Gurnoor\u0026Parth\\Program.cs",
+              "RelativeToolTip": "Midterm_EquipmentRental_Gurnoor\u0026Parth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T17:55:24.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 117,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
